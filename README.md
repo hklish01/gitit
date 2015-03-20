@@ -37,4 +37,14 @@ $ git revert HEAD
 
 use HEAD if you want to cancel the last commit.  Use a hash if you want to cancel a commit previous to that
 
+----------------------------
+
+Add items/changes to a commit
+
+$ git add <files>
+
+$ git commit --amend
+
+This will amend your last commit to include these additional changes or additions.
+
 
