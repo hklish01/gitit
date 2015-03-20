@@ -47,4 +47,6 @@ $ git commit --amend
 
 This will amend your last commit to include these additional changes or additions.
 
+----------------------------
+
 
