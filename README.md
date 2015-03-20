@@ -39,13 +39,15 @@ use HEAD if you want to cancel the last commit.  Use a hash if you want to cance
 
 ----------------------------
 
-Add items/changes to a commit
+Add items/changes to a commit.  
 
-$ git add [files]
+$ git add [filesnames]
+
+Stage the file
 
 $ git commit --amend
 
-This will amend your last commit to include these additional changes or additions.
+Commit your file but with the --amend parameter.  This will amend your last commit to include these additional changes or additions.
 
 ----------------------------
 
