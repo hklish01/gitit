@@ -5,7 +5,7 @@ A repository of changes.
 
 ----------------------------
 
-will show you the file that was modified
+Modify index.html.  Run git status.  will show you that file was modified  To revert back:
 
 $ git checkout index.html
 
@@ -24,7 +24,9 @@ After running git add index.html the file will be staged
 
 $ git reset HEAD index.html
 
-will change it back to a modified but unstated file
+will change it back to a modified but unstaged file
+
+HEAD is the tip of the current branch
 
 
 ----------------------------
