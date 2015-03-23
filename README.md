@@ -3,6 +3,16 @@ Learn Git.
 
 A repository of changes.
 
+$ git add [filename]
+
+tells Git to start tracking a file or stage changes to an already tracked file
+
+----------------------------
+
+$ git commit [filename]
+
+Record the staged changes
+
 ----------------------------
 
 Modify index.html.  Run git status.  will show you that file was modified  To revert back:
