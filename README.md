@@ -1,7 +1,7 @@
 # gitit
 Learn Git.
 
-A repository of changes.
+A repository of changes that I made.
 
 $ git add [filename]
 
